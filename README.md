@@ -17,7 +17,7 @@
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"
+<img src="https://www.linkedin.com/in/pravin-nangare-aa098537b/"
      style="margin: 5px;">
 </a>
 </p>
@@ -31,7 +31,7 @@
 <p style="font-size: 16px; line-height: 1.6;">
 I'm <b>Pravin Nangare</b>, currently pursuing my
 <b>Master of Computer Applications (MCA)</b> from
-<b>Modern Institute of Computer and Management (IMCC), Pune</b>.
+<b>Maharashtra Education Society's Institute of Management & Career Courses (IMCC), Pune</b>.
 </p>
 
 <p style="font-size: 16px; line-height: 1.6;">
