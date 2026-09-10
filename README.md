@@ -16,10 +16,16 @@
      style="margin: 5px;">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<!-- <a href="YOUR_LINKEDIN_URL">
 <img src="https://www.linkedin.com/in/pravin-nangare-aa098537b/"
      style="margin: 5px;">
+</a> -->
+<a href="https://www.linkedin.com/in/pravin-nangare-aa098537/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40"
+         style="margin: 5px;">
 </a>
+
 </p>
 
 </div>
