@@ -270,39 +270,6 @@ Java • JDBC • MySQL
 </ul>
 
 <hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=pravin-2206&show_icons=true&theme=tokyonight"
-width="48%"
-style="margin: 5px;"
-
->
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-2206&layout=compact&theme=tokyonight"
-width="48%"
-style="margin: 5px;"
-
->
-
-</div>
-
-<hr>
-
-<h2>🔥 GitHub Streak</h2>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=pravin-2206&theme=tokyonight"
-width="70%"
-
->
-
 </div>
 
 <hr>
